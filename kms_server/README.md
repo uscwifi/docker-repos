@@ -5,7 +5,7 @@
 ## 一、运行容器：
 
 ```
-docker run --name kms_server -d -p 1688:1688 uscwifi/kms_server:v1.7
+docker run --name kms_server -d -p 1688:1688 uscwifi/kms_server:v2.0
 ```
 
 
