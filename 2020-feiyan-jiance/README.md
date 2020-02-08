@@ -1,4 +1,5 @@
 ## README
+![](https://i.loli.net/2020/02/08/dHmxObSchIaWewu.png)
 
 代码来自[佰阅](https://baiyue.one/archives/1553.html)大佬的镜像：baiyuetribe/code:yiqing2
 
@@ -21,4 +22,11 @@ EXPOSE 5000
 CMD [ "python", "app.py" ]
 ```
 
+### 使用方法
+
+```bash
+docker run  -d --name yiqing3 -p 1234:5000 uscwifi/feiyan
+```
+
+然后打开浏览器，http://ip:1234就可以访问
 
