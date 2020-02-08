@@ -25,7 +25,7 @@ CMD [ "python", "app.py" ]
 ### 使用方法
 
 ```bash
-docker run  -d --name yiqing3 -p 1234:5000 uscwifi/feiyan
+docker run  -d --name yiqing3 --log-opt max-size=50m --log-opt max-file=3 --restart=always -p 1234:5000 uscwifi/feiyan
 ```
 
 然后打开浏览器，http://ip:1234就可以访问
