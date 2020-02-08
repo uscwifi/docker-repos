@@ -1,6 +1,15 @@
 ## README
 ![](https://i.loli.net/2020/02/08/dHmxObSchIaWewu.png)
 
+
+
+> 代码目前放在[https://github.com/uscwifi/docker-repos/tree/master/2020-feiyan-jiance](https://github.com/uscwifi/docker-repos/tree/master/2020-feiyan-jiance)
+>
+> 在线体验地址：[https://yiqing.baiyue.one/](https://yiqing.baiyue.one/)
+>
+> 在线体验地址2：[https://yiqing.uscwifi.xyz/](https://yiqing.uscwifi.xyz/)
+
+
 代码来自[佰阅](https://baiyue.one/archives/1553.html)大佬的镜像：baiyuetribe/code:yiqing2
 
 他的镜像打包有点大，我来精简下 :laughing:
