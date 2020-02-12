@@ -12,7 +12,7 @@
 
 ### 效果图
 
-![](https://img02.sogoucdn.com/app/a/100520146/81E8D79984F296F78C4A04508947EC06)
+![ncov.png](https://i.loli.net/2020/02/12/5gNMlZTxu4kJodW.png)
 
 ### Dockerfile
 
