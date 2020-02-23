@@ -17,7 +17,8 @@
 ```
 docker run --name rrys -d -p 3001:3001 -v /opt/rrys-data:/opt/work/store
 ```
-**然后**
+**然后**  
+
 浏览器访问http://ip:3001
 
 
