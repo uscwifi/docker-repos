@@ -15,7 +15,7 @@
 ## 使用方法
 **首先**
 ```
-docker run --name rrys -d -p 3001:3001 -v /opt/rrys-data:/opt/work/store
+docker run --name rrys -d -p 3001:3001 -v /opt/rrys-data:/opt/work/store   uscwifi/rrshare:latest
 ```
 **然后**  
 
