@@ -7,7 +7,7 @@
 ### 一键docker部署
 
 ```bash
-docker run -d --name chrome-konglong -p 10086:80 uscwifi/chrome-konglong
+docker run -d --name chrome-game -p 10086:80 uscwifi/chrome-game
 ```
 
 ### Dockerfile参考
